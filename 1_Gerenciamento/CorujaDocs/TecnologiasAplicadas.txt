@@ -1,5 +1,0 @@
-ASP.NET - 4.6.1 - MVC 6
-Entity
-SqlServer 2014
-ELMAH - Logs
-
